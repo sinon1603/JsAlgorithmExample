@@ -85,7 +85,7 @@ var insertSort=function(array){
     } return array;
 }
 
-//构造最大堆
+/**构造最大堆**/
 class MaxHeap {
     constructor(array=[]) {
         this.A = array

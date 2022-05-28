@@ -222,8 +222,7 @@ function findArray( arr ,  num ) {
     }
     return map.get(num)?map.get(num):[]
 }
-console.log(findArray([1,-7,6,-2,-1],-1))
-
+console.log(findArray([1,-7,6,-2,-1],-3))
 
 
 

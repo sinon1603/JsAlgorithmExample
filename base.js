@@ -235,7 +235,3 @@ console.log(findArray([1,-7,6,-2,-1],-2))
 
 
 
-
-
-
-
